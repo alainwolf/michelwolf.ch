@@ -1,14 +1,16 @@
 ---
+layout: page
 title: "Datenschutzerklärung "
-date: 2023-01-15
-lastmod: 2023-01-17
+date: 2024-05-01
+lastmod: 2024-05-01
 showDate: false
 showDateUpdated: true
 showTableOfContents: true
 showPagination: false
 ---
 Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der
-EU-Datenschutzgrundverordnung (DSGVO), ist:
+[EU-Datenschutzgrundverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE)
+(DSGVO), ist:
 
     Michel Wolf
     Anna-Heer-Strasse 28
@@ -19,13 +21,15 @@ EU-Datenschutzgrundverordnung (DSGVO), ist:
 
 ## Allgemeiner Hinweis
 
-Gestützt auf Artikel 13 der schweizerischen Bundesverfassung und den
-datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede
-Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch
-ihrer persönlichen Daten. Als Betreiber dieser Seiten, nehmen wir den Schutz
-Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten
-vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie
-dieser Datenschutzerklärung.
+Gestützt auf
+[Artikel 13 der schweizerischen Bundesverfassung](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/de/pdf-a/fedlex-data-admin-ch-eli-cc-1999-404-20220213-de-pdf-a-4.pdf#%5B%7B%22num%22%3A24%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C31%2C462%2C0%5D)
+und den datenschutzrechtlichen Bestimmungen des Bundes
+([Datenschutzgesetz](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/20190301/de/pdf-a/fedlex-data-admin-ch-eli-cc-1993-1945_1945_1945-20190301-de-pdf-a.pdf),
+DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor
+Missbrauch ihrer persönlichen Daten. Als Betreiber dieser Seiten, nehmen wir den
+Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen
+Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften
+sowie dieser Datenschutzerklärung.
 
 Wir bemühen uns, die Datenbanken so gut wie möglich vor fremden Zugriffen,
 Verlusten, Missbrauch oder vor Fälschung zu schützen.
@@ -37,7 +41,7 @@ Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Durch die Nutzung dieser Website erklären Sie sich mit der Erhebung,
 Verarbeitung und Nutzung von Daten gemäss der nachfolgenden Beschreibung
 einverstanden. Diese Website kann grundsätzlich ohne Registrierung besucht
-werden. Dabei werden **keine** Daten. Personenbezogene Daten, insbesondere Name,
+werden. Dabei werden **keine** Daten, auch keine Personenbezogene Daten, insbesondere Name,
 Adresse oder E-Mail-Adresse werden **keine** erhoben. Es erfolgt keine
 Weitergabe von Daten an Dritte.
 
@@ -154,7 +158,7 @@ Die folgenden Cookie-Typen und Funktionen werden unterschieden:
   "Tracking"-Technologien einsetzen, informieren wir Sie gesondert in unserer
   Datenschutzerklärung oder im Rahmen der Einholung einer Einwilligung.
 
-Hinweise zu Rechtsgrundlagen: Auf welcher Rechtsgrundlage wir Ihre
+**Hinweise zu Rechtsgrundlagen**: Auf welcher Rechtsgrundlage wir Ihre
 personenbezogenen Daten mithilfe von Cookies verarbeiten, hängt davon ab, ob wir
 Sie um eine Einwilligung bitten. Falls dies zutrifft und Sie in die Nutzung von
 Cookies einwilligen, ist die Rechtsgrundlage der Verarbeitung Ihrer Daten die
@@ -164,11 +168,11 @@ betriebswirtschaftlichen Betrieb unseres Onlineangebotes und dessen
 Verbesserung) verarbeitet oder, wenn der Einsatz von Cookies erforderlich ist,
 um unsere vertraglichen Verpflichtungen zu erfüllen.
 
-Speicherdauer: Sofern wir Ihnen keine expliziten Angaben zur Speicherdauer von
+**Speicherdauer**: Sofern wir Ihnen keine expliziten Angaben zur Speicherdauer von
 permanenten Cookies mitteilen (z. B. im Rahmen eines sog. Cookie-Opt-Ins), gehen
 Sie bitte davon aus, dass die Speicherdauer bis zu zwei Jahre betragen kann.
 
-Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-Out): Abhängig davon, ob
+**Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-Out)**: Abhängig davon, ob
 die Verarbeitung auf Grundlage einer Einwilligung oder gesetzlichen Erlaubnis
 erfolgt, haben Sie jederzeit die Möglichkeit, eine erteilte Einwilligung zu
 widerrufen oder der Verarbeitung Ihrer Daten durch Cookie-Technologien zu
@@ -183,7 +187,7 @@ die Webseiten <https://optout.aboutads.info> und
 Widerspruchshinweise im Rahmen der Angaben zu den eingesetzten Dienstleistern
 und Cookies erhalten.
 
-Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung: Wir setzen ein
+**Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung**: Wir setzen ein
 Verfahren zum Cookie-Einwilligungs-Management ein, in dessen Rahmen die
 Einwilligungen der Nutzer in den Einsatz von Cookies, bzw. der im Rahmen des
 Cookie-Einwilligungs-Management-Verfahrens genannten Verarbeitungen und Anbieter
@@ -227,7 +231,7 @@ Browser automatisch an uns übermittelt, **nicht automatisch** in so genannten
 Server-Log Files.
 
 Wir behalten uns vor, die Speicherung solcher Daten jederzeit zu aktivieren und
-nachträglich zuprüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige
+nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige
 Nutzung bekannt werden. Eine Zusammenführung dieser Daten mit anderen
 Datenquellen wird nicht vorgenommen.
 
@@ -236,7 +240,7 @@ Dies wären:
 * Browsertyp und Browserversion
 * verwendetes Betriebssystem
 * Referrer URL
-* Hostname des zugreifenden Rechners
+* Hostname und oder IP-Adresse des zugreifenden Rechners
 * Uhrzeit der Serveranfrage
 
 Diese Daten sind nicht bestimmten Personen zuordenbar.
@@ -397,52 +401,6 @@ jederzeit zu widerrufen.
 
 Möchten Sie Ihr Recht auf Widerruf einer Einwilligung geltend machen, können Sie
 sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden.
-
-## Widerspruch von Werbe-Mails
-
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten
-zur Übersendung von nicht ausdrücklich angeforderter Werbung und
-Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten
-behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten
-Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
-
-## Urheberrechte
-
-Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen
-Dateien auf der Website, gehören ausschliesslich dem Betreiber dieser Website
-oder den speziell genannten Rechteinhabern. Für die Reproduktion von sämtlichen
-Dateien, ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus
-einzuholen.
-
-Wer ohne Einwilligung des jeweiligen Rechteinhabers eine Urheberrechtsverletzung
-begeht, kann sich strafbar und allenfalls schadenersatzpflichtig machen.
-
-## Allgemeiner Haftungsausschluss
-
-Alle Angaben unseres Internetangebotes wurden sorgfältig geprüft. Wir bemühen
-uns, unser Informationsangebot aktuell, inhaltlich richtig und vollständig
-anzubieten. Trotzdem kann das Auftreten von Fehlern nicht völlig ausgeschlossen
-werden, womit wir keine Garantie für Vollständigkeit, Richtigkeit und Aktualität
-von Informationen auch journalistisch-redaktioneller Art übernehmen können.
-Haftungsansprüche aus Schäden materieller oder ideeller Art, die durch die
-Nutzung der angebotenen Informationen verursacht wurden, sind ausgeschlossen,
-sofern kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden
-vorliegt.
-
-Der Herausgeber kann nach eigenem Ermessen und ohne Ankündigung Texte verändern
-oder löschen und ist nicht verpflichtet, Inhalte dieser Website zu
-aktualisieren. Die Benutzung bzw. der Zugang zu dieser Website geschieht auf
-eigene Gefahr des Besuchers. Der Herausgeber, seine Auftraggeber oder Partner
-sind nicht verantwortlich für Schäden, wie direkte, indirekte, zufällige, vorab
-konkret zu bestimmende oder Folgeschäden, die angeblich durch den Besuch dieser
-Website entstanden sind und übernehmen hierfür folglich keine Haftung.
-
-Der Herausgeber übernimmt ebenfalls keine Verantwortung und Haftung für die
-Inhalte und die Verfügbarkeit von Website Dritter, die über externe Links dieser
-Website erreichbar sind. Für den Inhalt der verlinkten Seiten sind
-ausschliesslich deren Betreiber verantwortlich. Der Herausgeber distanziert sich
-damit ausdrücklich von allen Inhalten Dritter, die möglicherweise straf- oder
-haftungsrechtlich relevant sind oder gegen die guten Sitten verstossen.
 
 ## Änderungen
 

@@ -1,7 +1,8 @@
 ---
+layout: page
 title: "Rechtliche Hinweise"
-date: 2023-01-16
-lastmod: 2023-01-17
+date: 2024-05-01
+lastmod: 2024-05-01
 showDate: false
 showDateUpdated: true
 showTableOfContents: true

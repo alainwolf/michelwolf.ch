@@ -1,9 +1,10 @@
 ---
-description: Werke von Michel Wolf.
-#lastmod: 2023-07-05
+date: 2024-05-01
+lastmod: 2024-05-01
 title: Michel Wolf
-featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
-# featured_image on the home page is used for OpenGraph cards, etc.
+showDate: false
+showDateUpdated: false
+featured_image: img/author.jpg
 menus:
   main:
     name: Home

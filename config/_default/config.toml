@@ -10,7 +10,8 @@ paginate = 10
 summaryLength = 0
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  # home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS" ]
 
 [languages]
 
@@ -20,9 +21,10 @@ languageCode = "de"
 languageName = "Deutsch"
 title = "Michel Wolf"
 weight = 2
-copyright = "© 2023 Michel Wolf - Alle Rechte vorbehalten"
+copyright = "© 2024 Michel Wolf - Alle Rechte vorbehalten"
 
 [languages.de.params]
+# [params]
 dateFormat = "2. January 2006"
 description = "Persönliche Website von Michel Wolf, Zürich, Schweiz"
 displayName = " 🇩🇪 "
@@ -30,6 +32,7 @@ isoCode = "de"
 rtl = false
 
 [languages.de.author]
+# [author]
 bio = "Ein bisschen über mich"
 headline = "Don't panic!"
 image = "img/author.png"

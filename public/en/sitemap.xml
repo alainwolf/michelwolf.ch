@@ -2,134 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/draht/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <loc>https://michelwolf.ch/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/draht/"
+                href="https://michelwolf.ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/draht/"
+                href="https://michelwolf.ch/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blech/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <loc>https://michelwolf.ch/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/blech/"
+                href="https://michelwolf.ch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blech/"
+                href="https://michelwolf.ch/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/zeichnung/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <loc>https://michelwolf.ch/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/zeichnung/"
+                href="https://michelwolf.ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/zeichnung/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en copy"
-                href="http://localhost:1313/en%20copy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/legal/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/legal/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/privacy/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/privacy/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/impressum/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/impressum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/impressum/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en copy"
-                href="http://localhost:1313/en%20copy/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en copy"
-                href="http://localhost:1313/en%20copy/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://michelwolf.ch/en/tags/"
                 />
   </url>
 </urlset>
