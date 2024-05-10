@@ -1,5 +1,5 @@
 ---
-title: "Zeichnungen"
+title: "Zeichnung"
 date: 2024-05-01
 lastmod: 2024-05-01
 showPagination: false
