@@ -4,7 +4,7 @@ lastmod: 2024-05-01
 title: Michel Wolf
 showDate: false
 showDateUpdated: false
-featured_image: img/author.jpg
+# featured_image: img/author.jpg
 menus:
   main:
     name: Home

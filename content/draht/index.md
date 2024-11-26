@@ -6,7 +6,7 @@ showPagination: false
 showReadingTime: false
 showDate: false
 showDateUpdated: false
-weight: 20
+weight: 30
 featured_image: Skulptur03.jpeg
 featured: false
 private: false

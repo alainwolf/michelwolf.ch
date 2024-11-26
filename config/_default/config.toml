@@ -6,7 +6,7 @@ baseURL = "https://michelwolf.ch/"
 defaultContentLanguage = "de"
 
 enableRobotsTXT = true
-paginate = 10
+pagination.pagerSize = 10
 summaryLength = 0
 
 [outputs]
@@ -20,7 +20,7 @@ summaryLength = 0
 languageCode = "de"
 languageName = "Deutsch"
 title = "Michel Wolf"
-weight = 2
+weight = 1
 copyright = "© 2024 Michel Wolf - Alle Rechte vorbehalten"
 
 [languages.de.params]

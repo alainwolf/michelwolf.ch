@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Hostname of the server hosting the website
-_HOST=lapidus.urown.net
+_HOST=mars.bru.urown.net
 
 # Username on the server hosting the website
 _USER=wolf
@@ -12,7 +12,7 @@ _DIR=/var/www/michelwolf.ch/
 set -e -u
 
 # Build
-hugo
+hugo build
 
 # Publish
 # Note:

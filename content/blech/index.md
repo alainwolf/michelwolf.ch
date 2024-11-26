@@ -6,7 +6,7 @@ showPagination: false
 showReadingTime: false
 showDate: false
 showDateUpdated: false
-weight: 30
+weight: 40
 featured_image: Blechfigur03.jpeg
 featured: false
 private: false
