@@ -2,14 +2,14 @@
 layout: page
 title: "Rechtliche Hinweise"
 date: 2024-05-01
-lastmod: 2024-05-01
+lastmod: 2025-02-02
 showDate: false
 showDateUpdated: true
 showTableOfContents: true
 showPagination: false
 ---
 
-## Widerspruch von Werbe-Mails
+### Widerspruch von Werbe-Mails
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten
 zur Übersendung von nicht ausdrücklich angeforderter Werbung und
@@ -17,7 +17,7 @@ Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten
 behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten
 Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
-## Urheberrechte
+### Urheberrechte
 
 Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen
 Dateien auf der Website, gehören ausschliesslich dem Betreiber dieser Website
@@ -28,7 +28,7 @@ einzuholen.
 Wer ohne Einwilligung des jeweiligen Rechteinhabers eine Urheberrechtsverletzung
 begeht, kann sich strafbar und allenfalls schadenersatzpflichtig machen.
 
-## Allgemeiner Haftungsausschluss
+### Allgemeiner Haftungsausschluss
 
 Alle Angaben unseres Internetangebotes wurden sorgfältig geprüft. Wir bemühen
 uns, unser Informationsangebot aktuell, inhaltlich richtig und vollständig

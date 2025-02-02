@@ -21,7 +21,7 @@ languageCode = "de"
 languageName = "Deutsch"
 title = "Michel Wolf"
 weight = 1
-copyright = "© 2024 Michel Wolf - Alle Rechte vorbehalten"
+copyright = "© 2025 Michel Wolf - Alle Rechte vorbehalten"
 
 [languages.de.params]
 # [params]
@@ -85,7 +85,7 @@ links = [
 
 [languages.en]
 #header.logo = "img/author.png"
-copyright = "© 2023 Michel Wolf - All rights reserved"
+copyright = "© 2025 Michel Wolf - All rights reserved"
 languageCode = "en"
 languageName = "English"
 title = "Michel Wolf"

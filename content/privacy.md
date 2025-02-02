@@ -2,7 +2,7 @@
 layout: page
 title: "Datenschutzerklärung "
 date: 2024-05-01
-lastmod: 2024-05-01
+lastmod: 2025-02-02
 showDate: false
 showDateUpdated: true
 showTableOfContents: true
@@ -12,14 +12,19 @@ Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der
 [EU-Datenschutzgrundverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE)
 (DSGVO), ist:
 
-    Michel Wolf
-    Anna-Heer-Strasse 28
-    8057 Zürich
-    Schweiz
+    Registrant of michelwolf.ch
+    c/o Gandi SAS
+    63-65 boulevard Masséna
+    75013 Paris
+    France
 
-    E-Mail: michel@michelwolf.ch
+    Phone: +33.170377666
+    Fax: +33.143730576
+    Email: 19fc198b872606bb6a4d0b443f46be87-3518780@contact.gandi.net
 
-## Allgemeiner Hinweis
+Subject to the [procedure for disclosure of domain contact data](https://docs.gandi.net/en/domain_names/common_operations/procedures_for_disclosure_of_domain_contact_data.html#domain-contacts-disclosure).
+
+### Allgemeiner Hinweis
 
 Gestützt auf
 [Artikel 13 der schweizerischen Bundesverfassung](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/de/pdf-a/fedlex-data-admin-ch-eli-cc-1999-404-20220213-de-pdf-a-4.pdf#%5B%7B%22num%22%3A24%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C31%2C462%2C0%5D)
@@ -45,7 +50,7 @@ werden. Dabei werden **keine** Daten, auch keine Personenbezogene Daten, insbeso
 Adresse oder E-Mail-Adresse werden **keine** erhoben. Es erfolgt keine
 Weitergabe von Daten an Dritte.
 
-## Bearbeitung von Personendaten
+### Bearbeitung von Personendaten
 
 Personendaten sind alle Angaben, die sich auf eine bestimmte oder bestimmbare
 Person beziehen. Eine betroffene Person ist eine Person, über die Personendaten
@@ -58,7 +63,7 @@ Wir bearbeiten keine Personendaten im Sinne des schweizerischen
 Datenschutzrechts. Im Übrigen bearbeiten wir auch keine Personendaten gemäss den
 Rechtsgrundlagen im Zusammenhang mit Art. 6 Abs. 1 DSGVO.
 
-## Massgebliche Rechtsgrundlagen
+### Massgebliche Rechtsgrundlagen
 
 Nach Massgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer
 Datenverarbeitungen mit. Sofern die Rechtsgrundlage in der Datenschutzerklärung
@@ -74,7 +79,7 @@ betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung
 personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO
 als Rechtsgrundlage.
 
-## Sicherheitsmassnahmen
+### Sicherheitsmassnahmen
 
 Wir treffen nach Massgabe der gesetzlichen Vorgaben unter Berücksichtigung des
 Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der
@@ -94,7 +99,7 @@ Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie
 Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung
 und durch datenschutzfreundliche Voreinstellungen.
 
-## Datenverarbeitung in Drittländern
+### Datenverarbeitung in Drittländern
 
 Sofern wir Daten in einem Drittland (d.h., ausserhalb der Europäischen Union
 (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung
@@ -110,7 +115,7 @@ Zertifizierungen oder verbindlichen internen Datenschutzvorschriften (Art. 44
 bis 49 DSGVO,
 [Informationsseite der EU-Kommission](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de).
 
-## Datenschutzerklärung für Cookies
+### Datenschutzerklärung für Cookies
 
 Diese Website verwendet keine *Cookies*. Cookies sind Textdateien, die Daten von
 besuchten Websites oder Domains enthalten und von einem Browser auf dem Computer
@@ -213,7 +218,7 @@ Endgerät gespeichert.
   Onlinediensten). Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a.
   DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-## SSL-/TLS-Verschlüsselung
+### SSL-/TLS-Verschlüsselung
 
 Diese Website nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung
 vertraulicher Inhalte, wie zum Beispiel der Anfragen, die Sie an uns als
@@ -224,7 +229,7 @@ auf "https://" wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 Wenn die SSL bzw. TLS Verschlüsselung aktiviert ist, können die Daten, die Sie
 an uns übermitteln, nicht von Dritten mitgelesen werden.
 
-## Server-Log-Files
+### Server-Log-Files
 
 Der Server dieser Website erhebt und speichert die Informationen, die Ihr
 Browser automatisch an uns übermittelt, **nicht automatisch** in so genannten
@@ -245,16 +250,16 @@ Dies wären:
 
 Diese Daten sind nicht bestimmten Personen zuordenbar.
 
-## Rechte betroffener Personen
+### Rechte betroffener Personen
 
-### Recht auf Bestätigung
+#### Recht auf Bestätigung
 
 Jede betroffene Person hat das Recht, vom Betreiber der Website eine Bestätigung
 darüber zu verlangen, ob betroffene Personen betreffende, personenbezogene Daten
 verarbeitet werden. Möchten Sie dieses Bestätigungsrecht in Anspruch nehmen,
 können Sie sich hierzu jederzeit an den Datenschutzbeauftragten wenden.
 
-### Recht auf Auskunft
+#### Recht auf Auskunft
 
 Jede von der Verarbeitung betroffene Person mit personenbezogenen Daten hat das
 Recht, jederzeit vom Betreiber dieser Website unentgeltliche Auskunft über die
@@ -285,7 +290,7 @@ der übermittlung zu erhalten.
 Möchten Sie dieses Auskunftsrecht in Anspruch nehmen, können Sie sich hierzu
 jederzeit an unseren Datenschutzbeauftragten wenden.
 
-### Recht auf Berichtigung
+#### Recht auf Berichtigung
 
 Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das
 Recht, die unverzügliche Berichtigung sie betreffender unrichtiger
@@ -297,7 +302,7 @@ ergänzenden Erklärung - zu verlangen.
 Möchten Sie dieses Berichtigungsrecht in Anspruch nehmen, können Sie sich hierzu
 jederzeit an unseren Datenschutzbeauftragten wenden.
 
-### Recht auf Löschung
+#### Recht auf Löschung
 
 (Recht auf Vergessen werden)
 
@@ -330,7 +335,7 @@ veranlassen möchten, können Sie sich hierzu jederzeit an unseren
 Datenschutzbeauftragten wenden. Der Datenschutzbeauftragte dieser Website wird
 veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.
 
-### Recht auf Einschränkung
+#### Recht auf Einschränkung
 
 ... der Verarbeitung
 
@@ -358,7 +363,7 @@ verlangen möchten, können Sie sich hierzu jederzeit an unseren
 Datenschutzbeauftragten wenden. Der Datenschutzbeauftragte dieser Website wird
 die Einschränkung der Verarbeitung veranlassen.
 
-### Recht auf Datenübertragbarkeit
+#### Recht auf Datenübertragbarkeit
 
 Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das
 Recht, die sie betreffenden personenbezogenen Daten in einem strukturierten,
@@ -375,7 +380,7 @@ werden.
 Zur Geltendmachung des Rechts auf Datenübertragbarkeit können Sie sich jederzeit
 an den vom Betreiber dieser Website bestellten Datenschutzbeauftragten wenden.
 
-### Recht auf Widerspruch
+#### Recht auf Widerspruch
 
 Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das
 Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit
@@ -391,7 +396,7 @@ Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
 Zur Ausübung des Rechts auf Widerspruch können Sie sich direkt an den
 Datenschutzbeauftragten dieser Website wenden.
 
-### Recht auf Widerruf
+#### Recht auf Widerruf
 
 ... einer datenschutzrechtlichen Einwilligung
 
@@ -402,7 +407,7 @@ jederzeit zu widerrufen.
 Möchten Sie Ihr Recht auf Widerruf einer Einwilligung geltend machen, können Sie
 sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden.
 
-## Änderungen
+### Änderungen
 
 Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen. Es
 gilt die jeweils aktuelle, auf unserer Website publizierte Fassung. Soweit die
@@ -410,7 +415,7 @@ Datenschutzerklärung Teil einer Vereinbarung mit Ihnen ist, werden wir Sie im
 Falle einer Aktualisierung über die Änderung per E-Mail oder auf andere
 geeignete Weise informieren.
 
-## Fragen zum Datenschutz
+### Fragen zum Datenschutz
 
 Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder
 wenden Sie sich direkt an die für den Datenschutz zu Beginn der
